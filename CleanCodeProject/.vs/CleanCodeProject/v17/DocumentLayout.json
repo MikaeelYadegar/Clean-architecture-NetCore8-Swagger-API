@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33AEA55E-DD88-46AE-905F-2C8C41E33188}|Presentation\\Presentation.csproj|c:\\users\\mikaeel\\source\\repos\\cleancodeproject\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AEA55E-DD88-46AE-905F-2C8C41E33188}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22896F41-17B7-410C-AF13-525C86D3D9F7}|Application\\Application.csproj|c:\\users\\mikaeel\\source\\repos\\cleancodeproject\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22896F41-17B7-410C-AF13-525C86D3D9F7}|Application\\Application.csproj|solutionrelative:application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AEA55E-DD88-46AE-905F-2C8C41E33188}|Presentation\\Presentation.csproj|c:\\users\\mikaeel\\source\\repos\\cleancodeproject\\presentation\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AEA55E-DD88-46AE-905F-2C8C41E33188}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22896F41-17B7-410C-AF13-525C86D3D9F7}|Application\\Application.csproj|c:\\users\\mikaeel\\source\\repos\\cleancodeproject\\application\\userfeatures\\commands\\add\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22896F41-17B7-410C-AF13-525C86D3D9F7}|Application\\Application.csproj|solutionrelative:application\\userfeatures\\commands\\add\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22896F41-17B7-410C-AF13-525C86D3D9F7}|Application\\Application.csproj|c:\\users\\mikaeel\\source\\repos\\cleancodeproject\\application\\userfeatures\\commands\\add\\createusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22896F41-17B7-410C-AF13-525C86D3D9F7}|Application\\Application.csproj|solutionrelative:application\\userfeatures\\commands\\add\\createusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22896F41-17B7-410C-AF13-525C86D3D9F7}|Application\\Application.csproj|c:\\users\\mikaeel\\source\\repos\\cleancodeproject\\application\\userfeatures\\commands\\add\\createusercommandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22896F41-17B7-410C-AF13-525C86D3D9F7}|Application\\Application.csproj|solutionrelative:application\\userfeatures\\commands\\add\\createusercommandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBDB32A3-24D8-4962-8801-F43F237F22D9}|Domain\\Domain.csproj|c:\\users\\mikaeel\\source\\repos\\cleancodeproject\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBDB32A3-24D8-4962-8801-F43F237F22D9}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBDB32A3-24D8-4962-8801-F43F237F22D9}|Domain\\Domain.csproj|c:\\users\\mikaeel\\source\\repos\\cleancodeproject\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBDB32A3-24D8-4962-8801-F43F237F22D9}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22896F41-17B7-410C-AF13-525C86D3D9F7}|Application\\Application.csproj|c:\\users\\mikaeel\\source\\repos\\cleancodeproject\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22896F41-17B7-410C-AF13-525C86D3D9F7}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90681C7-8B46-48C6-958B-433403744341}|Infrastructure\\Infrastructure.csproj|c:\\users\\mikaeel\\source\\repos\\cleancodeproject\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90681C7-8B46-48C6-958B-433403744341}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBDB32A3-24D8-4962-8801-F43F237F22D9}|Domain\\Domain.csproj|c:\\users\\mikaeel\\source\\repos\\cleancodeproject\\domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBDB32A3-24D8-4962-8801-F43F237F22D9}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AEA55E-DD88-46AE-905F-2C8C41E33188}|Presentation\\Presentation.csproj|c:\\users\\mikaeel\\source\\repos\\cleancodeproject\\presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33AEA55E-DD88-46AE-905F-2C8C41E33188}|Presentation\\Presentation.csproj|solutionrelative:presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90681C7-8B46-48C6-958B-433403744341}|Infrastructure\\Infrastructure.csproj|c:\\users\\mikaeel\\source\\repos\\cleancodeproject\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B90681C7-8B46-48C6-958B-433403744341}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90681C7-8B46-48C6-958B-433403744341}|Infrastructure\\Infrastructure.csproj|c:\\users\\mikaeel\\source\\repos\\cleancodeproject\\infrastructure\\data\\configuration\\userroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90681C7-8B46-48C6-958B-433403744341}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\configuration\\userroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90681C7-8B46-48C6-958B-433403744341}|Infrastructure\\Infrastructure.csproj|c:\\users\\mikaeel\\source\\repos\\cleancodeproject\\infrastructure\\data\\configuration\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90681C7-8B46-48C6-958B-433403744341}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\configuration\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90681C7-8B46-48C6-958B-433403744341}|Infrastructure\\Infrastructure.csproj|c:\\users\\mikaeel\\source\\repos\\cleancodeproject\\infrastructure\\data\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90681C7-8B46-48C6-958B-433403744341}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90681C7-8B46-48C6-958B-433403744341}|Infrastructure\\Infrastructure.csproj|c:\\users\\mikaeel\\source\\repos\\cleancodeproject\\infrastructure\\data\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90681C7-8B46-48C6-958B-433403744341}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBDB32A3-24D8-4962-8801-F43F237F22D9}|Domain\\Domain.csproj|c:\\users\\mikaeel\\source\\repos\\cleancodeproject\\domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBDB32A3-24D8-4962-8801-F43F237F22D9}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBDB32A3-24D8-4962-8801-F43F237F22D9}|Domain\\Domain.csproj|c:\\users\\mikaeel\\source\\repos\\cleancodeproject\\domain\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBDB32A3-24D8-4962-8801-F43F237F22D9}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T20:57:20.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Application\\UserFeatures\\Commands\\Add\\CreateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\UserFeatures\\Commands\\Add\\CreateUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Application\\UserFeatures\\Commands\\Add\\CreateUserCommandHandler.cs",
+              "RelativeToolTip": "Application\\UserFeatures\\Commands\\Add\\CreateUserCommandHandler.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T20:13:12.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateUserCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Application\\UserFeatures\\Commands\\Add\\CreateUserCommandValidator.cs",
+              "RelativeDocumentMoniker": "Application\\UserFeatures\\Commands\\Add\\CreateUserCommandValidator.cs",
+              "ToolTip": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Application\\UserFeatures\\Commands\\Add\\CreateUserCommandValidator.cs",
+              "RelativeToolTip": "Application\\UserFeatures\\Commands\\Add\\CreateUserCommandValidator.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T20:09:07.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateUserCommandModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Application\\UserFeatures\\Commands\\Add\\CreateUserCommandModel.cs",
+              "RelativeDocumentMoniker": "Application\\UserFeatures\\Commands\\Add\\CreateUserCommandModel.cs",
+              "ToolTip": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Application\\UserFeatures\\Commands\\Add\\CreateUserCommandModel.cs",
+              "RelativeToolTip": "Application\\UserFeatures\\Commands\\Add\\CreateUserCommandModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T19:33:21.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T08:46:40.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Presentation\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Presentation\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T20:33:17.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:09:23.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Presentation\\appsettings.json",
+              "RelativeToolTip": "Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-10T09:01:29.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-07T10:43:44.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:34:09.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:30:02.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-10T09:32:05.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:48:38.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRoleConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Infrastructure\\Data\\Configuration\\UserRoleConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\Configuration\\UserRoleConfiguration.cs",
+              "ToolTip": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Infrastructure\\Data\\Configuration\\UserRoleConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\Configuration\\UserRoleConfiguration.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIBQwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T08:31:04.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RoleConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Infrastructure\\Data\\Configuration\\RoleConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\Configuration\\RoleConfiguration.cs",
+              "ToolTip": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Infrastructure\\Data\\Configuration\\RoleConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\Configuration\\RoleConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T08:13:34.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Infrastructure\\Data\\Configuration\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\Configuration\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Infrastructure\\Data\\Configuration\\UserConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\Configuration\\UserConfiguration.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwBIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T11:18:31.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Infrastructure\\Data\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Infrastructure\\Data\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T10:03:42.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Domain\\Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Domain\\Entities\\UserRole.cs",
+              "RelativeToolTip": "Domain\\Entities\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:50:50.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\Mikaeel\\source\\repos\\CleanCodeProject\\Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "Domain\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:48:12.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
